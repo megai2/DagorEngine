@@ -8,8 +8,10 @@
 /outerSpace/game*
 /outerSpace/tools
 /outerSpace/application.blk
-/_output/
+_output/
 *.pyc
 *.das.inl
 *.sh.log
 ShaderLog-*
+shaders_sha~*/
+log_vrom_*
